@@ -130,3 +130,6 @@ dmypy.json
 
 # Cosas personales
 privado/
+
+# Datos grandes
+data/
